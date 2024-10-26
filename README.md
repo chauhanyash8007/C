@@ -1,5 +1,3 @@
 # C
-C Language.
 
-# Yash
-Student
+C Language.
